@@ -7,6 +7,7 @@
 - Deploy the app using MCM
 - Refactoring the databases keeping the open shift operators in mind.
 - Get the app done in Spring, MicroProfile, OpenLiberty, Quarkus.
+- Enable Gatsby Carbon template for docs in themain repo
 - Update the architecture center with the new reference architecture.
 
 # Repo structure
